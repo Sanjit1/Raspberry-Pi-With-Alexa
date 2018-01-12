@@ -5,8 +5,6 @@ Download the master file on Raspberry pi by typing "wget https://github.com/Sanj
 
 Unzip downloaded zip file with "unzip master.zip" command
 
-Change the text in the wpa_supplicant file. 
-
 Modify the code in RGB_Flash as per your requirement and then ask Alexa to turn on your lights or fans or whatever you want!
 
 If you have any queries, you can check out the video on youtube:
