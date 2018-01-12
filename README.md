@@ -9,7 +9,7 @@ Change the text in the wpa_supplicant file.
 
 Modify the code in RGB_Flash as per your requirement and then ask Alexa to turn on your lights or fans or whatever you want!
 
-To modify your code you might want to check out the video on youtube:
+If you have any queries, you can check out the video on youtube:
 
 
 
