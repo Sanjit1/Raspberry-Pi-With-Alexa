@@ -1,10 +1,4 @@
-""" name_port_gpio.py
- 
-    This is a demo python file showing how to take paramaters
-    from command line for device name, port, and GPIO.
-    All credit goes to https://github.com/toddmedema/echo/
-    for making the first working versions of this code.
-"""
+
  
 import fauxmo
 import logging
@@ -17,11 +11,7 @@ from debounce_handler import debounce_handler
 logging.basicConfig(level=logging.DEBUG)
  
 class device_handler(debounce_handler):
-    """Publishes the on/off state requested,
-       and the IP address of the Echo making the request.
-    """
-    #TRIGGERS = {str(sys.argv[1]): int(sys.argv[2])}
-    #TRIGGERS = {"office": 52000}
+   
     TRIGGERS = {"blue": 52000,"red":51000, "green":53000}
 
     def act(self, client_address, state, name):
