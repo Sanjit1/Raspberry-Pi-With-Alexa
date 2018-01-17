@@ -1,6 +1,9 @@
 # Raspberry-Pi-With-Alexa
 Control your raspberry pi with Alexa.
 
+
+
+#Headless Steps
 Download the master file on Raspberry pi by typing "wget https://github.com/Sanjit1/Raspberry-Pi-With-Alexa/archive/master.zip"
 
 Unzip downloaded zip file with "unzip master.zip" command
