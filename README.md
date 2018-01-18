@@ -17,7 +17,10 @@ If you want, you can easily modify the file in your editor to match your require
 Follow the adding device steps to finish.
 
 
+
 Headless Steps.
+
+It would be better if you could install the vnc server in the interfacing options under the raspberry pi configuration with "sudo raspi-config"
 
 Download the master file on Raspberry pi by typing "wget https://github.com/Sanjit1/Raspberry-Pi-With-Alexa/archive/master.zip"
 
