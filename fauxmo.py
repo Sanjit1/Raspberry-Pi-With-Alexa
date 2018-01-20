@@ -37,7 +37,7 @@ SETUP_XML = """<?xml version="1.0"?>
 
 def dbg(msg):
     logging.debug(msg)
-
+#not needed to be in debug mode
 
 # A simple utility class to wait for incoming data to be
 # ready on a socket.
