@@ -4,9 +4,6 @@
 Sanjit
 """
 
-# For a complete discussion, see http://www.makermusings.com
-# TODO(semartin): investigate time.sleep usage in here...
-
 import email.utils
 import requests
 import select
